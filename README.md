@@ -1,4 +1,3 @@
-
 # Gandalf Bot
 
 A web-based chatbot powered by the **Ollama LLM**, allowing users to interact with **Gandalf the Grey** from Middle-earth.
@@ -107,5 +106,9 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 - **Ollama** for providing the LLM model
 - **Django** for being an excellent web framework
+
+## Video Presentation
+
+Check out the video presentation of the Gandalf Bot on YouTube: [Your YouTube Video Link Here](https://youtu.be/sCRTvr36ezk)
 
 Feel free to modify any sections to better reflect your project and its specific requirements.
