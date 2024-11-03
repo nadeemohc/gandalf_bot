@@ -98,10 +98,6 @@ gandalf_bot/
 └── ...                       # Other Django files
 ```
 
-## License
-
-This project is licensed under the **MIT License**. See the LICENSE file for details.
-
 ## Acknowledgments
 
 - **Ollama** for providing the LLM model
@@ -109,6 +105,6 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 ## Video Presentation
 
-Check out the video presentation of the Gandalf Bot on YouTube: [Your YouTube Video Link Here](https://youtu.be/sCRTvr36ezk)
+Check out the video presentation of the Gandalf Bot on [YouTube: ](https://youtu.be/sCRTvr36ezk)
 
 Feel free to modify any sections to better reflect your project and its specific requirements.
