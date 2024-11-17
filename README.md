@@ -105,6 +105,6 @@ gandalf_bot/
 
 ## Video Presentation
 
-Check out the video presentation of the Gandalf Bot on [YouTube: ]([https://youtu.be/sCRTvr36ezk](https://www.youtube.com/watch?v=hx_3lcnTCDM))
+Check out the video presentation of the Gandalf Bot on [YouTube](https://www.youtube.com/watch?v=hx_3lcnTCDM).
 
 Feel free to modify any sections to better reflect your project and its specific requirements.
